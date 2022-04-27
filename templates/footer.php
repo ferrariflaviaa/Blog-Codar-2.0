@@ -1,6 +1,6 @@
 <footer>
     
-    <p>Projeto feita por @ferrariflaviaa</p>
+    <p>Projeto feito por @ferrariflaviaa</p>
 
 </footer>
 </body>
